@@ -4,6 +4,8 @@
 
 This project presents an end-to-end business analytics dashboard for an e-commerce company. The goal was to analyze revenue performance, customer retention, cohort behavior, and lifetime value (LTV).
 
+Data source: Kaggle E-commerce Dataset
+
 The dashboard consists of three analytical layers:
 - Business Overview
 - Customer & Retention Analysis
@@ -66,7 +68,6 @@ The dashboard consists of three analytical layers:
 ## 📂 Repository Structure
 
 - `/powerbi` – Power BI file (.pbix)
-- `/data` – Source datasets
 - `/screenshots` – Dashboard visuals
 - `/docs` – Documentation & export files
 
