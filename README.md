@@ -56,12 +56,11 @@ The dashboard consists of three analytical layers:
 
 ## 🛠 Tech Stack
 
-Data source: Kaggle E-commerce Dataset
+Data Source: Kaggle Online Retail Dataset  
 Database: PostgreSQL (Supabase)  
 Querying: SQL (DBeaver)  
 Data Processing: Excel (Pivot tables, Cohort & RFM analysis)  
 Visualization: Power BI  
-
 
 ---
 
