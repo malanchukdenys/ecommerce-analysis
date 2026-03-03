@@ -4,8 +4,6 @@
 
 This project presents an end-to-end business analytics dashboard for an e-commerce company. The goal was to analyze revenue performance, customer retention, cohort behavior, and lifetime value (LTV).
 
-Data source: Kaggle E-commerce Dataset
-
 The dashboard consists of three analytical layers:
 - Business Overview
 - Customer & Retention Analysis
@@ -58,10 +56,12 @@ The dashboard consists of three analytical layers:
 
 ## 🛠 Tech Stack
 
-- Power BI
-- DAX (Cohort Modeling, LTV Calculation)
-- Excel (Data Cleaning & Preparation)
-- Cohort Analysis Methodology
+Data source: Kaggle E-commerce Dataset
+Database: PostgreSQL (Supabase)  
+Querying: SQL (DBeaver)  
+Data Processing: Excel (Pivot tables, Cohort & RFM analysis)  
+Visualization: Power BI  
+
 
 ---
 
