@@ -68,7 +68,7 @@ Visualization: Power BI
 
 - `/powerbi` – Power BI file (.pbix)
 - `/screenshots` – Dashboard visuals
-- `/docs` – Documentation & export files
+- `/data` – Documentation & export files
 
 ---
 
