@@ -75,4 +75,4 @@ The dashboard consists of three analytical layers:
 ## 🔗 Full Business Analysis
 
 Detailed business explanation and analytical reasoning available in Notion:
-[Add Notion Link Here]
+[https://www.notion.so/1-E-commerce-Case-30ffc4fcd65680b3bb18de2e65db249e?source=copy_link]
